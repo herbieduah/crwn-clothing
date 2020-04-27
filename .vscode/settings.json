@@ -2,7 +2,8 @@
   "prettier.jsxBracketSameLine": true,
   "prettier.printWidth": 120,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": false,
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true
